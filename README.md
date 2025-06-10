@@ -10,7 +10,7 @@ Using dotenv, the Gemini API key is loaded securely from environment variables.
 
 📌 Model Integration
 
-The chatbot uses AsyncOpenAI with Gemini 2.0 Flash through a custom base URL (https://lnkd.in/dXXGaj8d).
+The chatbot uses AsyncOpenAI with Gemini 2.0 Flash through a custom base URL "https://generativelanguage.googleapis.com/v1beta/openai/"
 
  It’s wrapped with OpenAIChatCompletionsModel to handle conversation logic.📌 Agent Definition
  
